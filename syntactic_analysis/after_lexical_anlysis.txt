@@ -1,0 +1,8 @@
+(KEY,int)	(ID,A)	(SYM,,)	(ID,B)
+(SYM,;)	(KEY,bool)	(ID,C1)	(SYM,,)
+(ID,C2)	(SYM,,)	(ID,C3)	(SYM,;)
+(KEY,char)	(ID,D)	(SYM,;)	(ID,D)
+(SYM,:=)	(STR,scanner)	(SYM,;)	(KEY,while)
+(ID,A)	(SYM,<=)	(ID,B)	(KEY,do)
+(ID,A)	(SYM,:=)	(ID,A)	(SYM,*)
+(NUM,2)	(KEY,end)	
